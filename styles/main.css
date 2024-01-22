@@ -39,7 +39,11 @@ details summary {
 }
 
 img.next-image {
-  margin: 20px;
+  margin: 0;
+}
+
+.next-image {
+  margin-bottom: 20px;
 }
 
 .prose a {
