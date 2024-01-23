@@ -1,5 +1,5 @@
 ---
-title: Symphony of Industry A Factorio Ode
+title: factorio-poem
 date: 2024/1/22
 description: A Factorio-inspired poem.
 tag: poetry
