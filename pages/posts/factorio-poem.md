@@ -6,7 +6,7 @@ tag: poetry
 author: Me
 ---
 
-# Symphony of Industry: A Factorio Ode
+# factorio-poem
 
 In the realm of gears and steam,
 Where conveyor belts weave like a dream,
