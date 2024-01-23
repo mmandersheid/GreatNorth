@@ -2,7 +2,7 @@
 title: 'Mechanized Dreams'
 date: 2024/1/22
 description: The ballad of Factorio
-tag: web development
+tag: poetry
 author: Me
 ---
 
