@@ -1,12 +1,12 @@
 ---
-title: 'Symphony of Industry: A Factorio Ode'
+title: Symphony of Industry A Factorio Ode
 date: 2024/1/22
 description: A Factorio-inspired poem.
 tag: poetry
 author: Me
 ---
 
-# 'Symphony of Industry: A Factorio Ode'
+# Symphony of Industry: A Factorio Ode
 
 In the realm of gears and steam,
 Where conveyor belts weave like a dream,
