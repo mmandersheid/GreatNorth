@@ -1,7 +1,9 @@
 ---
-type: posts
 title: 'Symphony of Industry: A Factorio Ode'
-date: 2021-03-18
+date: 2024/1/22
+description: A Factorio-inspired poem.
+tag: poetry
+author: Me
 ---
 
 In the realm of gears and steam,
