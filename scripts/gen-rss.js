@@ -5,7 +5,7 @@ const matter = require('gray-matter')
 
 async function generate() {
   const feed = new RSS({
-    title: 'Great Dawn',
+    title: 'Great North',
     site_url: 'https://great-north.vercel.app/',
     feed_url: 'https://great-north.vercel.app/feed.xml'
   })
