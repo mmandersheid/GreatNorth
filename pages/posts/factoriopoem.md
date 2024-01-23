@@ -1,7 +1,7 @@
 ---
 title: 'Mechanized Dreams'
 date: 2021/3/19
-description: A ballad of Factorio
+description: The ballad of Factorio
 tag: web development
 author: Me
 ---
