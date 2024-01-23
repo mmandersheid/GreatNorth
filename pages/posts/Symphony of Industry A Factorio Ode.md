@@ -6,6 +6,8 @@ tag: poetry
 author: Me
 ---
 
+# 'Symphony of Industry: A Factorio Ode'
+
 In the realm of gears and steam,
 Where conveyor belts weave like a dream,
 Factorio, the land of machination,
