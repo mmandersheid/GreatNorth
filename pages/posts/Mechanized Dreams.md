@@ -1,12 +1,12 @@
 ---
-title: 'Mechanized Dreams'
+title: Mechanized Dreams
 date: 2024/1/22
-description: The ballad of Factorio
+description: The Ballad of Factorio
 tag: poetry
-author: AI
+author: Me
 ---
 
-# 'Mechanized Dreams'
+Mechanized Dreams
 
 In the realm of gears and steam,
 Where conveyor belts weave like a dream,
